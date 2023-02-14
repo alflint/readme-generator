@@ -1,0 +1,14 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "This project allows you to generate a professional README utilizing Node and Inquirer.",
+  "main": "index.js",
+  "scripts": {
+    "main": "node index.js"
+  },
+  "author": "Alexandrea Flint",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
