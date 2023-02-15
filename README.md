@@ -3,6 +3,7 @@
 ## Description
 
 This project uses node.js and inquirer to generate professional README's.
+[Video Tutorial](https://drive.google.com/file/d/1J1_v5Fjeo-p5G8w5GHqvSgDgUeo1hQ2i/view?usp=sharing)
 
 <br>
 
